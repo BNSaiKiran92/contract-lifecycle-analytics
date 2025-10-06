@@ -1,6 +1,4 @@
-# contract-lifecycle-analytics
-
-# Contract Lifecycle Analytics Project
+# Contract_Lifecycle_Analytics
 
 ### 🎯 Objective
 To identify approval delays, compliance risks, and process inefficiencies in a Contract Lifecycle Management (CLM) system and provide data-driven recommendations for improvement.
